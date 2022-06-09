@@ -1,56 +1,9 @@
 # Roland Wildes - Software Capstone Project
 
-## Welcome to Roland Wildes's capstone project
+## Software Design and Engineering Enhancement
 
-The software capstone for SNHU's computer science degree looks to take projects created throughout the course and then enhance them using the knowledge gained through the course. 
-This aims to exhibit progress and development of skills in three main categories being Software Design/Engineering, Algorithms/Data structures and Databases. The following portfolio contains a code review video created before enhancements, detailed narratives for each section of enhancement including why something was changed and how. Each enhancement can be found in a link below as well as the link for the code review video. 
+### Overview
 
-
-
+After outlining my planed changes and upgrades in , I set to implementing the changes. First, I worked on the software/design side where I wanted to rework the UI and make it easier and more intuitive. Originally, I wanted to add a button for delete on the event card however this would make the interface rather crowded. Instead, I have implemented a long click so you can hold down on the event you want and then you are prompted to either edit or delete the event. I also changed the short click to open a view for the event rather than the edit. This allows you to view the details of the event without accidentally making changes. 
 
 
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/RolandWildes/RolandWildes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RolandWildes/RolandWildes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
