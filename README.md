@@ -13,4 +13,4 @@ As a mostly self-taught programmer my skills coming into the program were very b
 
 For this project I chose to enhance one of my most recent programs in the course as I felt that it was still missing some vital pieces. The program met all of the requirements for the course I was doing at the time however the end result needed some more functionality and polishing in order to make it a finished product. I believe after the enhancements it is a much more functional and user friendly product and allowed me to demonstrate my knowledge that I gained throughout the computer science course. 
 
-[Software Design Narrative] (https://rolandwildes.github.io/SoftwareDesign-Engineering)
+[Software Design Narrative](https://rolandwildes.github.io/SoftwareDesign-Engineering)
