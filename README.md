@@ -1,4 +1,4 @@
-# Roland Wildes - Software Capstone Project
+# Software Capstone Project
 
 ## Welcome to Roland Wildes's capstone project
 
@@ -11,6 +11,5 @@ During my time completing classes in this program, I have learned a lot about co
 As a mostly self-taught programmer my skills coming into the program were very basic. My programming skills for languages was mainly limited to Java with some use of Python and HTTP/xml but very limited overall. The program has expanded my knowledge on all my previous skills and has taught me many new skills and techniques I use regularly with my programming today. 
 
 
-For this project I chose to enhance one of my most recent programs in the course as I felt that it was still missing some vital pieces. The program met all of the requirements for the course I was doing at the time however the end result needed some more functionality and polishing in order to make it a finished product. I believe after the enhancements it is a much more functional and user friendly product and allowed me to demonstrate my knowledge that I gained throughout the computer science course. 
 
 [Software Design Narrative](https://rolandwildes.github.io/SoftwareDesign-Engineering)
