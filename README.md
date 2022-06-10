@@ -12,7 +12,7 @@ As a mostly self-taught programmer my skills coming into the program were very b
 
 
 
-[Code Review](https://rolandwildes.github.io/Code-Review)
-[Software Design Narrative](https://rolandwildes.github.io/SoftwareDesign-Engineering)
-[Algorithms and Data Structure Narrative](https://rolandwildes.github.io/AlgorithmDataStructure)
+[Code Review](https://rolandwildes.github.io/Code-Review)\
+[Software Design Narrative](https://rolandwildes.github.io/SoftwareDesign-Engineering)\
+[Algorithms and Data Structure Narrative](https://rolandwildes.github.io/AlgorithmDataStructure)\
 [Database Narrative](https://rolandwildes.github.io/Databases)
