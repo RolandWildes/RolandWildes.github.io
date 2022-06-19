@@ -15,5 +15,7 @@ The following capstone project demonstrates some of the skills I have gained dur
 [Algorithms and Data Structure Narrative](https://rolandwildes.github.io/AlgorithmsDataStructure)\
 [Database Narrative](https://rolandwildes.github.io/Databases)
 
+[Capstone Journey](https://rolandwildes.github.io/Capstone Journey.docx)
+
 [Original code](https://github.com/RolandWildes/RolandWildes.github.io/blob/main/EventTrackerCapstone%20-Original.zip)\
 [Enhanced code](https://github.com/RolandWildes/RolandWildes.github.io/blob/main/EventTrackerCapstone-Final.zip)
